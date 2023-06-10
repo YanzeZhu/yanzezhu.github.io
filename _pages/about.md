@@ -43,7 +43,7 @@ My research interest includes diffusion models and computer vision.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# :trophy: Honors and Awards
+# 🎖️ Honors and Awards
 - *2022.09 - present*, KAUST Fellowship
 - *2019.11*, China National Scholarship 
 
