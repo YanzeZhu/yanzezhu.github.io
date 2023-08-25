@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanze Zhu"
-description              : "MS/Ph.D. student at the Visual Computing Center (VCC), KAUST"
+# description              : "MS/Ph.D. student at the Visual Computing Center (VCC), KAUST"
 repository               : "yanzezhu/yanzezhu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanze Zhu"
   avatar           : "images/avatar.jpg"
-  bio              : "King Abdullah University of Science and Technology (KAUST)"
+  bio              : "Hello world!"
   location         : "Thuwal, Saudi Arabia"
   employer         :
   pubmed           : 

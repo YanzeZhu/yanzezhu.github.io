@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a MS/Ph.D. student at the [Visual Computing Center (VCC)](https://cemse.kaust.edu.sa/vcc) in [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) under the supervision of Professor [Peter Wonka](https://peterwonka.net/) in his research group. 
+Hi! I am Yanze Zhu(朱颜泽). I'm currently a MS/Ph.D. student at the [Visual Computing Center (VCC)](https://cemse.kaust.edu.sa/vcc) in King Abdullah University of Science and Technology [(KAUST)](https://www.kaust.edu.sa/en/) under the supervision of Professor [Peter Wonka](https://peterwonka.net/) in his research group. Feel free to reach me at <YANZE.ZHU@KAUST.EDU.SA>. 
 
 
 My research interest includes 3D generation and diffusion model. 
