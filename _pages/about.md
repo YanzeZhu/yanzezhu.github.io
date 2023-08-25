@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a MS/Ph.D. student at the Visual Computing Center (VCC) in King Abdullah University of Science and Technology (KAUST) under the supervision of Professor Peter Wonka in his research group. 
+I'm a MS/Ph.D. student at the [Visual Computing Center (VCC)](https://cemse.kaust.edu.sa/vcc) in [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/) under the supervision of Professor [Peter Wonka](https://peterwonka.net/) in his research group. 
 
-My research interest includes diffusion models and computer vision. 
+
+My research interest includes 3D generation and diffusion model. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -57,3 +58,5 @@ My research interest includes diffusion models and computer vision.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+Updated on Agu 25, 2023  
