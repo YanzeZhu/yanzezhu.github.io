@@ -27,9 +27,10 @@ Feel free to reach me at <YANZE.ZHU@KAUST.EDU.SA>!
 
 
 # 🔥 News
-- *2023.09*: &nbsp; I'll be attending ICCV 2023 in Paris. If you'll be there too, let's connect and exchange ideas! 🌟
-- *2022.08*: &nbsp; 🎉🎉 I'm delighted to embark on my journey of pursuing a Master's degree at KAUST!
-- *2022.06*: &nbsp; 🎓 I've officially graduated with my Bachelor's degree! Grateful for all the wonderful teachers and friends I've met during my undergraduate journey.
+- *2024.05*: &nbsp; I successfully defended my Master’s thesis! My deepest gratitude goes to Prof. Peter Wonka for his invaluable guidance and support. 
+- *2023.10*: &nbsp; I'll attend ICCV 2023 in Paris. If you'll be there too, let's meet and exchange ideas! 
+- *2022.08*: &nbsp; I'm delighted to embark on my journey of pursuing a Master's degree at KAUST!
+- *2022.06*: &nbsp; I've officially graduated with my Bachelor's degree! Grateful for all the wonderful teachers and friends I've met during my undergraduate journey.
 
 <!-- # 📝 Publications 
 
