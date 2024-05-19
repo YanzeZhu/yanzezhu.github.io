@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a MS/Ph.D. student at the Visual Computing Center [(VCC)](https://cemse.kaust.edu.sa/vcc) in King Abdullah University of Science and Technology [(KAUST)](https://www.kaust.edu.sa/en/) under the supervision of Professor [Peter Wonka](https://peterwonka.net/) in his research group. I graduated from Xi'an Jiaotong University([西安交通大学](http://www.xjtu.edu.cn/)) with a bachelor’s degree.
+I'm currently a computer science MS/Ph.D. student at the Visual Computing Center [(VCC)](https://cemse.kaust.edu.sa/vcc) in King Abdullah University of Science and Technology [(KAUST)](https://www.kaust.edu.sa/en/) under the supervision of Professor [Peter Wonka](https://peterwonka.net/) in his research group. I graduated from Xi'an Jiaotong University([西安交通大学](http://www.xjtu.edu.cn/)) with a bachelor’s degree.
 
-My research interest includes 3D deep learning and diffusion model. 
+My research interest includes 3D computer vision, generative models, and 3D Gaussian Splatting. 
 
 Feel free to reach me at <YANZE.ZHU@KAUST.EDU.SA>!
 
@@ -53,7 +53,7 @@ Feel free to reach me at <YANZE.ZHU@KAUST.EDU.SA>!
 - *2019.11*, China National Scholarship (Undergraduate)(Top 1%)
 
 # 📖 Educations
-- *2022.08 - present*, MS/Ph.D, King Abdullah University of Science and Technology (KAUST) 
+- *2022.08 - present*, MS/Ph.D., King Abdullah University of Science and Technology (KAUST) 
 - *2018.09 - 2022.07*, B.Eng, Xi'an Jiaotong University(XJTU) (4.0/4.3)
 
 <!-- # 💬 Invited Talks
