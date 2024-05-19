@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yanze Zhu(朱颜泽)"
+  name             : "Yanze Zhu (朱颜泽)"
   avatar           : "images/avatar.jpg"
-  bio              : "MS/PhD student"
+  bio              : "MS/Ph.D. student"
   location         : "Thuwal, Saudi Arabia"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yanzezhu61@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=I__oFwYAAAAJ&hl=en"
+  email            : "yanze.zhu@kaust.edu.sa"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/yanze-zhu-939314308/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0008-0776-1247"
   pinterest        :
