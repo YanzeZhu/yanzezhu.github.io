@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a computer science MS/Ph.D. student at the Visual Computing Center [(VCC)](https://cemse.kaust.edu.sa/vcc) in King Abdullah University of Science and Technology [(KAUST)](https://www.kaust.edu.sa/en/) under the supervision of Professor [Peter Wonka](https://peterwonka.net/) in his research group. I graduated from Xi'an Jiaotong University([西安交通大学](http://www.xjtu.edu.cn/)) with a bachelor’s degree.
+I'm currently a computer science Ph.D. student at the Visual Computing Center [(VCC)](https://cemse.kaust.edu.sa/vcc) in King Abdullah University of Science and Technology [(KAUST)](https://www.kaust.edu.sa/en/) under the supervision of Prof. [Dominik L. Michels](https://www.kaust.edu.sa/en/study/faculty/dominik-michels).
 
-My research interest includes 3D computer vision, generative models, and 3D Gaussian Splatting. 
+I completed my master's degree under Professor [Peter Wonka](https://peterwonka.net/). I earned my bachelor's degree from Xi'an Jiaotong University([西安交通大学](http://www.xjtu.edu.cn/)).
+
+My research interests include visual computing and fluid simulation. 
 
 Feel free to reach me at <YANZE.ZHU@KAUST.EDU.SA>!
 
@@ -27,10 +29,12 @@ Feel free to reach me at <YANZE.ZHU@KAUST.EDU.SA>!
 
 
 # 🔥 News
+- *2024.12*: &nbsp; I attended Siggraph Asia 2024 in Tokyo.
+- *2024.09*: &nbsp; I started my Ph.D. studies.
 - *2024.05*: &nbsp; I successfully defended my Master’s thesis! My deepest gratitude goes to Prof. Peter Wonka for his invaluable guidance and support. 
-- *2023.10*: &nbsp; I'll attend ICCV 2023 in Paris. If you'll be there too, let's meet and exchange ideas! 
-- *2022.08*: &nbsp; I'm delighted to embark on my journey of pursuing a Master's degree at KAUST!
-- *2022.06*: &nbsp; I've officially graduated with my Bachelor's degree! Grateful for all the wonderful teachers and friends I've met during my undergraduate journey.
+- *2023.10*: &nbsp; I attended ICCV 2023 in Paris.
+- *2022.08*: &nbsp; I started my Master’s degree at KAUST. Excited for this new journey!
+- *2022.06*: &nbsp; I graduated with my Bachelor’s degree. Grateful to my teachers and friends for their support.
 
 <!-- # 📝 Publications 
 
@@ -63,4 +67,4 @@ Feel free to reach me at <YANZE.ZHU@KAUST.EDU.SA>!
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-Updated on Sep 2nd, 2023  
+Updated on January, 2025  
