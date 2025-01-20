@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a computer science Ph.D. student at the Visual Computing Center [(VCC)](https://cemse.kaust.edu.sa/vcc) in King Abdullah University of Science and Technology [(KAUST)](https://www.kaust.edu.sa/en/) under the supervision of Prof. [Dominik L. Michels](https://www.kaust.edu.sa/en/study/faculty/dominik-michels).
+I'm currently a computer science Ph.D. student at the Visual Computing Center [(VCC)](https://cemse.kaust.edu.sa/vcc) in King Abdullah University of Science and Technology [(KAUST)](https://www.kaust.edu.sa/en/) under the supervision of Prof. [Dominik L. Michels](https://www.kaust.edu.sa/en/study/faculty/dominik-michels) in [CSG group](https://computationalsciences.org/index.html).
 
 I completed my master's degree under Professor [Peter Wonka](https://peterwonka.net/). I earned my bachelor's degree from Xi'an Jiaotong University([西安交通大学](http://www.xjtu.edu.cn/)).
 
-My research interests include visual computing and fluid simulation. 
+My research interests include scientific computing, visual computing, and physical simulation. 
 
 Feel free to reach me at <YANZE.ZHU@KAUST.EDU.SA>!
 
